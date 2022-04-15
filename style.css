@@ -1,0 +1,25 @@
+div ol{
+	list-style-type: none;
+	display: flex;
+background-color: palegreen;
+}
+li{
+
+float: left;
+padding: 15px 30px;
+
+}
+h1{
+
+font-family: cursive;
+text-shadow: 1px 2px lawngreen;
+text-align: center;
+
+}
+figcaption{
+color:springgreen;
+font-family: cursive;
+text-align: center;
+
+
+}
