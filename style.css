@@ -1,11 +1,11 @@
 div ol{
-	list-style-type: none;
-	display: flex;
-background-color: palegreen;
+list-style-type: none;
+ background-color: palegreen;
+ height: 70px;
 }
 li{
 
-float: left;
+float: right;
 padding: 15px 30px;
 
 }
@@ -22,4 +22,8 @@ font-family: cursive;
 text-align: center;
 
 
+}
+*{
+	box-sizing: border-box;
+	margin:0%;
 }
